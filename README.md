@@ -1,0 +1,2 @@
+# sGuilds
+A guild plugin
